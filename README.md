@@ -17,9 +17,7 @@ Create the model using the dataset and download the model.h5 file.
 
 Change the required path where the project is saved. 
 
+##Output -- 
 
-
-
-
-
+https://user-images.githubusercontent.com/94452677/234957440-50c9f9d7-de63-4616-be3e-e30caeb0d828.mp4
 
